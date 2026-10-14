@@ -1,0 +1,6 @@
+Debug_FLASH/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
